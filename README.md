@@ -34,7 +34,7 @@ Condição: 🌤️ Principalmente limpo
 
 ⚙️ Como Usar
 
-1. git clone https://github.com/[SEU-USUARIO-GITHUB]/[NOME-DO-SEU-REPOSITORIO].git
+1. git clone https://github.com/danilogep/Previsao_Do_Tempo.git
 2. Navegue até a pasta do projeto: cd [NOME-DO-SEU-REPOSITORIO]
 3. O projeto requer a biblioteca requests. Instale-a com o seguinte comando: pip install requests
 4. Com tudo pronto, execute o programa: python clima_cidade.py
